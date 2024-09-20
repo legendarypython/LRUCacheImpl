@@ -1,0 +1,23 @@
+{
+  "name": "lru-cache",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node main.js",
+    "watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/uuid": "^10.0.0",
+    "typescript": "^5.5.4",
+    "uuid": "^10.0.0"
+  },
+  "dependencies": {
+    "eslint": "^9.10.0",
+    "json2xls": "^0.1.2"
+  }
+}
